@@ -1,0 +1,48 @@
+*{
+    font-family:'Dancing script';
+}
+body{
+    background-color: antiquewhite;
+    width: 100%;
+    height: 100vh;
+    padding: 0%;
+    margin: 0%;
+}
+.Design{
+    display: flex;
+    justify-content: space-around;
+}
+h1{
+    color: blue;
+    font-size: 50px;
+    margin-left: 15vh;
+    margin-top: 200px;
+}
+p{
+    margin-top: 200px;
+    margin-right: 20vh;
+    color: blue;
+    font-size: px;
+}
+.image{
+    display: flex;
+    justify-content: center;
+}
+img{
+    width: 80%;
+    height: 80vh;
+}
+span{
+    color: gray;
+    font-size: 100px;
+}
+
+h1{
+    color:black;
+    font-weight: 200px;
+}
+h2{
+ color: blueviolet;
+ font-weight: 200px;
+ font-size: 50px;
+}
